@@ -1,3 +1,5 @@
+print('Hello Mars')
+
 try:
     with open('./mission_computer_main.log', 'r', encoding='UTF-8',) as file:
         logList = file.readlines()
