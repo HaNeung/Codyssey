@@ -120,7 +120,7 @@
     "message": "Life support systems nominal."
     },
     "2023-08-27 10:12:00": {
-    "log_type": "INFO", 
+    "log_type": "INFO",  
     "message": "Propulsion check: Thrusters responding as expected."
     },
     "2023-08-27 10:10:00": {

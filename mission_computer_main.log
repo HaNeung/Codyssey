@@ -9,7 +9,7 @@ timestamp,event,message
 2023-08-27 10:18:00,INFO,Cargo bay secured and sealed properly.
 2023-08-27 10:20:00,INFO,Final system checks complete. Rocket is ready for launch.
 2023-08-27 10:23:00,INFO,Countdown sequence initiated.
-2023-08-27 10:25:00,INFO,Engine ignition sequence started.
+2023-08-27 10:25:00,INFO,Engine ignition sequence started. 
 2023-08-27 10:27:00,INFO,Engines at maximum thrust. Liftoff imminent.
 2023-08-27 10:30:00,INFO,Liftoff! Rocket has left the launchpad.
 2023-08-27 10:32:00,INFO,Initial telemetry received. Rocket is on its trajectory.
